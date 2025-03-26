@@ -2,8 +2,8 @@
 
 # Scaling Vision Pre-Training to 4K Resolution
 
-[![website](https://img.shields.io/badge/website-76b900?style=for-the-badge&logo=safari&labelColor=555555)](https://nvlabs.github.io/PS3)
-[![Arxiv](https://img.shields.io/badge/Arxiv-b31b1b?style=for-the-badge&logo=arxiv&labelColor=555555)]()
+[![website](https://img.shields.io/badge/website-76b900?style=for-the-badge&logo=safari&labelColor=555555)](https://nvlabs.github.io/PS3/)
+[![Arxiv](https://img.shields.io/badge/Arxiv-b31b1b?style=for-the-badge&logo=arxiv&labelColor=555555)](https://arxiv.org/abs/2503.19903)
 [![PS3 Models](https://img.shields.io/badge/PS3%20Models%20(Coming%20soon)-ffd21e?style=for-the-badge&logo=huggingface&labelColor=555555)]()
 [![VILA-HD Models](https://img.shields.io/badge/VILA--HD%20Models%20(Coming%20soon)-ffd21e?style=for-the-badge&logo=huggingface&labelColor=555555)]()
 [![VILA-HD Code](https://img.shields.io/badge/VILA--HD%20Code%20(Coming%20soon)-181717?style=for-the-badge&logo=github&labelColor=555555)]()
